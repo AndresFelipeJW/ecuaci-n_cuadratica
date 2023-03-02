@@ -1,2 +1,7 @@
-# ecuacion_cuadratica
-PROGRAMA PARA RESOLVER UNA ECUACIÓN CUADRATICA 
+# ECUACION CUADRATICA
+Programa para resolver una ecuación cuadrática de segundo grado
+# DISEÑO
+
+## Diagrama de flujo
+
+![Diagrama de flujo](diagrama.png "Diagrama de flujo")
